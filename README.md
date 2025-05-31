@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shreya Shrestha</h1>
+- 🌱 I’m currently learning **passionate about **web development****
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
