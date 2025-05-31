@@ -1,8 +1,9 @@
+<h1 align="center">Hi 👋 Everyone</h1>
 - 🌱 I’m currently **passionate about **web development****
 
-- 💡 **I enjoy turning ideas into real applications and learning something new every day.**
+- 💡I enjoy turning ideas **into real applications and learning something new every day.**
 
-- ⚡ Fun fact **I change one line of code and suddenly... everything works. No idea why, but I’ll take it! 🎉🧪**
+- ⚡ Fun fact: **I change one line of code and suddenly... everything works. No idea why, but I’ll take it! 🎉🧪**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
