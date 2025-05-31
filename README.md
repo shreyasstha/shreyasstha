@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 Everyone</h1>
-- 🌱 I’m currently **passionate about web development.**
+
 
 - 💡 I enjoy turning ideas **into real applications and learning something new every day.**
 
