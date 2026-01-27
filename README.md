@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋 Everyone</h1>
+<h1 align="center">Hi 👋 Everyone!</h1>
 
 
 - 💡 I enjoy turning ideas **into real applications and learning something new every day.**
 
 - ⚡ Fun fact: **My code works! Don't ask me how**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
 
